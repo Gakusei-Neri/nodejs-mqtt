@@ -1,0 +1,3 @@
+#para usar este programa en Node.js ndecesitamos instalr algunas cosas 
+
+$npm install mqtt jsonschema@1.2.6 mosca serialport mysql
